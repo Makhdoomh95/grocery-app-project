@@ -86,7 +86,7 @@ class _HomePageGridItemState extends State<HomePageGridItem> {
         itemBuilder: (context, index) {
           bool isFavorite = homePageProductData[index]["isFav"];
           Color itemColor =
-              isFavorite == true ? Colors.red : AppDarkColors.black10;
+              isFavorite == true ? Colors.blueAccent : AppDarkColors.black10;
 
           return Stack(
             children: [
@@ -153,7 +153,7 @@ class _HomePageGridItemState extends State<HomePageGridItem> {
                     backgroundColor: AppColors.blue,
                     child: const Icon(
                       Icons.add,
-                      color: Colors.white,
+                      color: Colors.blueGrey,
                       size: 20,
                     ),
                   ),

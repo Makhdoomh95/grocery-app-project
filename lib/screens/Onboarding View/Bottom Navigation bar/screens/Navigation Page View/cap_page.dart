@@ -14,52 +14,52 @@ class CapPage extends StatefulWidget {
 class _CapPageState extends State<CapPage> {
   final List<Map<String, dynamic>> capPageGridItems = [
     {
-      "description": "Barbed Wire Camo Cap",
-      "price": "\$325",
+      "description": "Trad cap black",
+      "price": "\$650",
       "images":
-          "https://www.nicepng.com/png/full/15-157157_barbed-wire-camo-cap-outdoor-cap-company-inc.png",
+          "https://www.nicepng.com/png/full/57-570835_spacex-x-cap-patagonia-p-6-label-trad.png",
     },
     {
-      "description": "Character Trucker Cap",
-      "price": "\$89",
+      "description": "Trump Baseball Cap",
+      "price": "\$850",
       "images":
-          "https://www.nicepng.com/png/full/979-9791649_bugs-bunny-new-era-looney-tunes-character-trucker.png",
+          "https://www.nicepng.com/png/full/15-154630_trump-make-america-great-again-flat-bill-cap.png",
     },
     {
-      "description": "Baseball Cap",
-      "price": "\$525",
+      "description": "Graduation Cap & Tassel",
+      "price": "\$800",
       "images":
-          "https://www.nicepng.com/png/full/6-60154_baseball-cap-png-image-baseball-cap-png.png",
+          "https://www.nicepng.com/png/full/5-59733_graduation-cap-png-transparent-image-graduation-cap-tassel.png",
     },
     {
-      "description": "Baseball Cap",
-      "price": "\$125",
+      "description": "Gotham City - Cap",
+      "price": "\$620",
       "images":
-          "https://www.nicepng.com/png/full/36-365008_cap-png-mart-baseball-cap-png.png",
+          "https://www.nicepng.com/png/full/329-3292533_mitchell-ness-nhl-pittsburgh-penguins-gotham-city-cap.png",
     },
     {
-      "description": "Fender Logo Stretch Cap",
-      "price": "\$79",
+      "description": "Pink Baseball Cap",
+      "price": "\$900",
       "images":
-          "https://www.nicepng.com/png/full/64-647950_fender-logo-stretch-cap-logo-cap.png",
+          "https://www.nicepng.com/png/full/8-86242_clipart-download-cap-pink-png-clip-art-image.png",
     },
     {
-      "description": "Baseball Cap Transparent",
-      "price": "\$50",
+      "description": " Navy Logo Cap",
+      "price": "\$350",
       "images":
-          "https://www.nicepng.com/png/full/76-760062_baseball-cap-png-image-baseball-cap-transparent-background.png",
+          "https://www.nicepng.com/png/full/77-773364_6640-u-s-navy-logo-cap-cotton-coyote.png",
     },
     {
-      "description": "Typhoon Blue Embroidered Cap",
-      "price": "\$100",
+      "description": "Swish Embassy - Baseball Cap",
+      "price": "\$550",
       "images":
-          "https://www.nicepng.com/png/full/88-884554_typhoon-blue-embroidered-cap-embroidered-caps.png",
+          "https://www.nicepng.com/png/full/99-993422_swish-headwear-swish-embassy-baseball-cap.png",
     },
     {
-      "description": "Star Fitted Cap",
+      "description": "New Era New York Yankees Cap",
       "price": "\$23",
       "images":
-          "https://www.nicepng.com/png/full/159-1597946_new-era-cowboy-star-fitted-cap-cap.png",
+          "https://www.nicepng.com/png/full/77-777184_new-era-timberland-tan-color-new-york-yankees.png",
     },
     {
       "description": "Fishin' Chill Cap ",
